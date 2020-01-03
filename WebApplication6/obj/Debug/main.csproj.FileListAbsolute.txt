@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\ostadyab01\WebApplication6\obj\Debug\main.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\ostadyab01\WebApplication6\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ostadyab01\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\asus\source\repos\ostadyab01\WebApplication6\obj\Debug\WebApplication6.pdb
